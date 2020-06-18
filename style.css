@@ -1,0 +1,60 @@
+body {
+    background-image: url(img/mainBackground.jpg);
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+#logo {
+    width: 80px;
+    height: 45px;
+}
+
+#kontakt {
+    float: right;
+    font-size: 23px;
+    margin-right: 5px;
+}
+
+a.dlink {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px;
+    border-right: 1px solid blueviolet;
+}
+
+a.dlink:hover {
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 27px;
+}
+
+#oMnie {
+    float: right;
+    font-size: 23px;
+}
+
+#cvitae {
+    float: right;
+    font-size: 23px;
+}
+
+#portfiolio {
+    float: right;
+    font-size: 23px;
+}
+
+#portfolio:hover {
+    color: blueviolet;
+}
+
+#cvitae:hover {
+    color: blueviolet;
+}
+
+#oMnie:hover {
+    color: blueviolet;
+}
+
+#kontakt:hover {
+    color: blueviolet;
+}
